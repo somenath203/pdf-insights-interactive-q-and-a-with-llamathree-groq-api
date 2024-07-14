@@ -80,7 +80,7 @@ if pdf_input_from_user is not None:
 
 if "vector_store" in st.session_state:
 
-    user_prompt = st.text_input("Enter Your Question From Documents")
+    user_prompt = st.text_input("Enter Your Question related to the uploaded PDF")
 
     if st.button('Submit Prompt'):
 
