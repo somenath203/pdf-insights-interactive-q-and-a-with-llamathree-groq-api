@@ -64,7 +64,7 @@ pdf_input_from_user = st.file_uploader("Upload the PDF file", type=['pdf'])
 
 if pdf_input_from_user is not None:
 
-    if st.button("Create the Vector DB of the uplaoded PDF file"):
+    if st.button("Create the Vector DB from the uploaded PDF file"):
         
         if pdf_input_from_user is not None:
             
