@@ -11,7 +11,6 @@ efficient responses. Users can upload PDF documents, ask questions, and receive 
 - **FAISS**: A library for efficient similarity search and clustering of dense vectors, used for handling embeddings.
 - **Groq API**: To leverage advanced computational resources for model inference.
 - **Hugging Face Embeddings**: For embedding generation and processing.
-- **Environment Configuration**: `.env.example` file is used to manage environment variables.
 
 ## Demo Video of the Application
 
