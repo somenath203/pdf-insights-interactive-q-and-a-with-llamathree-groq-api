@@ -2,7 +2,7 @@
 
 ## Introduction
 This project is an interactive Q&A application designed to provide insights from PDF documents. The project uses Llama3, a large language model, and the Groq API to deliver accurate and 
-efficient responses. Users can upload PDF documents, ask questions, and receive relevant answers based on the content of the uploaded PDFs.
+efficient responses. Users can upload PDF documents, ask questions, and receive relevant answers based on the content of the uploaded PDF.
 
 ## Technologies Used
 - **Python**: The primary programming language used for the backend logic.
