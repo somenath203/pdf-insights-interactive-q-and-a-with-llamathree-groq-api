@@ -7,3 +7,4 @@ python-dotenv==1.0.1
 streamlit==1.12.0
 pypdf==4.2.0
 faiss-cpu==1.8.0.post1
+altair==4.2.2
