@@ -21,7 +21,7 @@ groq_api_key = os.getenv('GROQ_API_KEY')
 st.markdown("<h2 style='text-align: center;'>PDF Insights: Interactive Q&A with Llama3 & Groq API</h2>", unsafe_allow_html=True)
 
 
-llm = ChatGroq(groq_api_key=groq_api_key, model_name="Llama3-8b-8192")
+llm = ChatGroq(groq_api_key=groq_api_key, model_name="llama-3.1-8b-instant")
 
 
 prompt = ChatPromptTemplate.from_template(
